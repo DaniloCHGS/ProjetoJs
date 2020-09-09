@@ -1,0 +1,18 @@
+Pesquisar {
+
+    Biblioteca Babel {
+        O babel trabalha fazendo com que os navegadores 
+        possam interpretar novas funcionalidades (novas versões) do JavaScript
+        como exemplo o arrow function '()=>'
+    }
+}
+Dependencias {
+    @babel/core {},
+    @babel/preset-env {},
+    @babel/preset-react {},
+    webpack {
+        Webpack é voltado para o front-end, é um 'bundle' (agrupador/empacotador) de arquivos JavaScript
+        https://www.youtube.com/watch?v=PcWOAYbTc9Y
+    },
+    webpack-cli {}
+}
